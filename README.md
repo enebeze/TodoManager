@@ -2,7 +2,7 @@
 
 Project TodoManager of React Native 1 - Pos Iesb
 
-## Install & Running
+## Install
 
 - Installing dependencies:
 
@@ -10,8 +10,16 @@ Project TodoManager of React Native 1 - Pos Iesb
 $ yarn
 ```
 
-- IOS :
+- IOS
 
 ```{r, engine='bash', count_lines}
 $ cd ios && pod install && cd ..
+```
+
+## Running
+
+
+```{r, engine='bash', count_lines}
+$ yarn start
+$ yarn ios or yarn android
 ```
